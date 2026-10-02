@@ -205,4 +205,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+st.sidebar.markdown("---")
+with st.sidebar.expander("ℹ️ System & Author Info"):
+    st.caption("**System:** JBG Logistics")
+    st.caption("**Engineer:** Daniel Borffo Mensah  borffo.dev@gmail.com")
+    st.caption("**Tech Stack:** Python, Streamlit, Folium, Scikit-Learn")
