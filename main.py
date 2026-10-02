@@ -76,7 +76,7 @@ st.sidebar.markdown("""
         </tr>
         <tr>
             <td><strong>Email:</strong></td>
-            <td><a href="mailto:borffo.research@gmail.com">borffo.research@gmail.com</a></td>
+            <td><a href="mailto:borffo.dev@gmail.com">borffo.dev@gmail.com</a></td>
         </tr>
         <tr>
             <td><strong>Phone:</strong></td>
@@ -205,3 +205,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
